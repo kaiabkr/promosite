@@ -1,0 +1,48 @@
+/*the asteric applies 
+the settings to everything*/
+* {
+	box-sizing: border-box;
+}
+
+
+
+/*this is how you comment.*/
+body, html {
+	padding:10px;
+	margin: 0px;
+	font-family: monospace;
+	font-size: 34px;
+
+}
+
+
+body {
+	background-color:#400808;
+	color: #fff;
+	padding: 10px;
+}
+
+.introDiv {
+	padding:8 px;
+	font-family: monospace;
+	/*background-color: blueviolet;*/
+}
+
+
+/*use the hashtags for ids*/
+/*tour date text*/
+#specialText {
+	padding: 10px;
+	color: #4982A6;
+	font-family: monospace;
+}
+
+
+
+/*use the period for classes*/
+.highlight {
+	/*background-color: #dadb0d;*/
+}
+
+
+
